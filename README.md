@@ -1,3 +1,35 @@
+# EBAC Sports
+
+### 📝 Descrição
+E-commerce responsivo.
+Onde foi utilizado o fork de um projeto do professor e foi realizado alterações para padrão REDUX.
+
+</br>
+
+### 👨🏻‍💻 Tecnologias utilizadas 
+React </br>
+TypeScript </br>
+
+</br>
+
+### 🎴 Imagem do projeto
+
+![ebac_sports](https://user-images.githubusercontent.com/114628700/223829768-62cb4736-a5dc-4e59-90e0-945eb4149f7d.jpg)
+
+
+
+
+</br>
+
+### 💻 Acesse o projeto
+https://ebac-sports-rr.vercel.app/
+
+
+
+<br>
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
